@@ -67,7 +67,7 @@ namespace Bonbon.Client.NET
                 if (response.IsSuccessStatusCode)
                 {
                     var card = await response.Content.ReadAsAsync<Card>();
-
+                    
                     Console.WriteLine("Card number: {0}", card.CardNumber);
                     Console.WriteLine("Card holder name: {0}", card.CardHolderName);
                     Console.WriteLine("Bonus: {0}", card.Bonus);
