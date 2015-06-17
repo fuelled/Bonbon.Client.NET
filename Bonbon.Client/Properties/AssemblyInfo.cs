@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Bonbon.Client.NET")]
+[assembly: AssemblyTitle("Bonbon.Client")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Bonbon.Client.NET")]
+[assembly: AssemblyProduct("Bonbon.Client")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("051c929d-23f9-47ce-84e3-184ae06c2d3e")]
+[assembly: Guid("0cd9c405-c025-47f3-9236-c8b0542f1744")]
 
 // Version information for an assembly consists of the following four values:
 //
